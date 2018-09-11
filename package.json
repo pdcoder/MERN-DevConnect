@@ -1,0 +1,28 @@
+{
+  "name": "mern-devcontrol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdcoder/MERN-DevControl.git"
+  },
+  "keywords": [
+    "MERN"
+  ],
+  "author": "Prakash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdcoder/MERN-DevControl/issues"
+  },
+  "homepage": "https://github.com/pdcoder/MERN-DevControl#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.14",
+    "passport": "^0.4.0"
+  }
+}
