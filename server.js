@@ -24,7 +24,7 @@ mongoose.connect(db).then(()=>
 app.use(passport.initialize());
 
 //passport config
-require('./configs/passport')(passport);
+require('./config/passport')(passport);
 
 //use routes
 app.use('/api/users',users);
