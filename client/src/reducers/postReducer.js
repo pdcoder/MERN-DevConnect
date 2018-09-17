@@ -4,7 +4,7 @@ import {
   GET_POST,
   DELETE_POST,
   POST_LOADING
-} from '../../../../076 devconnector-final/devconnector_final/client/src/actions/types';
+} from '../actions/types';
 
 const initialState = {
   posts: [],

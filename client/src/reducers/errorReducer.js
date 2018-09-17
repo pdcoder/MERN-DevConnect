@@ -1,4 +1,4 @@
-import { GET_ERRORS, CLEAR_ERRORS } from '../../../../076 devconnector-final/devconnector_final/client/src/actions/types';
+import { GET_ERRORS, CLEAR_ERRORS } from '../actions/types';
 
 const initialState = {};
 

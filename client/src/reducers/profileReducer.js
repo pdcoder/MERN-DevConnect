@@ -3,7 +3,7 @@ import {
   GET_PROFILES,
   PROFILE_LOADING,
   CLEAR_CURRENT_PROFILE
-} from '../../../../076 devconnector-final/devconnector_final/client/src/actions/types';
+} from '../actions/types';
 
 const initialState = {
   profile: null,
