@@ -11,7 +11,8 @@
     "url": "git+https://github.com/pdcoder/MERN-DevControl.git"
   },
   "keywords": [
-    "MERN"
+    "MERN",
+    "Connection"
   ],
   "author": "Prakash",
   "license": "ISC",
