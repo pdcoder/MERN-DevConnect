@@ -37,3 +37,8 @@ img {
 .form-control::placeholder {
   color: #bbb !important;
 }
+.footer{
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
