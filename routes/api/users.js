@@ -10,7 +10,6 @@ const passport = require('passport');
 const validateRegisterInput = require('../../validation/register');
 const validateLoginInput = require('../../validation/login');
 
-// Load User model
 const User = require('../../models/User');
 
 // @route   GET api/users/test
